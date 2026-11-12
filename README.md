@@ -42,8 +42,3 @@ python skills/sim-to-kg/scripts/build_kg.py out pid.json ap.json cad.json
 
 HYSYS energy streams, Adjust/Recycle/spreadsheet logic, and SolidWorks Routing pipe runs are not extracted yet. See `skills/sim-to-kg/references/limitations.md`.
 
-## License
-
-MIT.
-
-[ÙØ§Ø±Ø³Û](README.md)
